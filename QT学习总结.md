@@ -31,6 +31,14 @@
 > 适合不会也不想学c++的py的开发人员，开发不注重效率的GUI程序
 
 ## GUI和HMI
-1. 
-2. 
-3. 
+> GUI
+1. GUI: Graphical User INterface 图形用户界面
+2. CMD： Commandline User Interface 命令行用户界面
+3. 常见的GUI系统：Windows、Android、web页面
+4. GUI的本质：以超越文本的方式做数字显示。高级的还要带用户交互。
+
+> HMI
+1. HMI: Human Machine Interface 人机接口，又叫人机界面
+2. HMI是系统和用户之间交互和信息交换的媒介，包括显示和交互两部分。
+3. HMI一般指的是一种设备，也可能指实现这种设备的软硬件技术。
+4. HMI的实现需要借助GUI技术，通常还需要RS485、网络等通信技术，采集器和执行器技术等。
