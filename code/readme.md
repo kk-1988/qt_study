@@ -1,0 +1,1 @@
+IDE:QT 5.6.2(QT Create:4.0.3)
