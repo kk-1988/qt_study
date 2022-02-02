@@ -86,6 +86,9 @@
 >
 
 ## QWidget
-> 
+> IDE创建QTWidget应用项目
+1. 
+2. 
+3. 
 > 
 > 
