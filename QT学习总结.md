@@ -92,3 +92,21 @@
 3. 
 > 
 > 
+
+## qmake 和 cmake解读
+>  纯命令行方式编译qt项目
+1. 前处理：uic和mosc
+* uic工具把.ui文件转换为.h文件
+* moc工具把.h文件转换位cpp文件
+2. 编译：注意头文件、库文件、编译选项等设置
+3. 运行：导出so：export LD_LIBRARY_PATH = $LD_LIBRARY_PATH：/home/aston/Qt5.6.2/5.6/gcc_64/lib
+
+> 用cmake替代qmake
+1. 
+2. 
+
+> 
+
+## 会话管理器的作用
+> 
+> 
