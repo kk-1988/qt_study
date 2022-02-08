@@ -102,8 +102,8 @@
 3. 运行：导出so：export LD_LIBRARY_PATH = $LD_LIBRARY_PATH：/home/aston/Qt5.6.2/5.6/gcc_64/lib
 
 > 用cmake替代qmake
-1. 
-2. 
+1. qmake是qt的适配的构建工具，但是不是很完整
+2. cmake比较完整，一般用的比较多
 
 > 
 
